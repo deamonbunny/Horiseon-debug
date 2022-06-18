@@ -1,10 +1,9 @@
 # Horiseon-debug
 
-<<<<<<< HEAD
-Node.JS Chat
+Horiseon Landing Page
 ============
 
-This is a node.js chat application powered by SockJS and Express that provides the main functions you'd expect from a chat, such as emojis, private messages, an admin system, etc.
+This is a landing page for Horiseon, outlaying information and containing links to other parts of the website
 
 ![Head and hero](./assets/images/head-and-hero.PNG)
 ![Main and Body](./assets/images/main-and-aside.png)
