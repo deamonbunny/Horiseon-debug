@@ -1,5 +1,6 @@
 # Horiseon-debug
 
+<<<<<<< HEAD
 Node.JS Chat
 ============
 
@@ -33,3 +34,4 @@ View Information on the page and follow links by
 
 ## License
 This project is licensed under the terms of the **MIT** license.
+=======
